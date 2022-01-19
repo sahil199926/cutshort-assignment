@@ -1,0 +1,19 @@
+{
+    "step_1":{
+        "title":"Welcome First things first...",
+        "subtitle":"You can always change them later"
+    },
+    "step_2":{
+        "title":"Let's set up a home for all your work",
+        "subtitle":"You can always change them later"
+    },
+    "step_3":{
+        "title":"How are you planning to use Eden?",
+        "subtitle":"We'll streamline your setup experience accordingly"
+    },
+    "step_4":{
+        "title":"Congratulations, Eren!",
+        "subtitle":"You have completed onBoarding, you can start using the Eden!"
+    }
+
+}
