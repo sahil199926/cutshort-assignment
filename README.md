@@ -1,2 +1,2 @@
 deployed at
-# https://fervent-tesla-b29644.netlify.app
+# https://cut-short-assignment.netlify.app/
