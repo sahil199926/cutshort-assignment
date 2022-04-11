@@ -7,6 +7,8 @@ import { FontSize } from "./Utils/FontSize";
 function App() {
 
   const head={
+
+    
     fontSize: FontSize.Logo,
     fontWeight: 'bold',
     fontFamily:"Inter"
